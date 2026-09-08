@@ -1,0 +1,9 @@
+class Pokemon {
+    private String name;
+    private int level;
+    private int hp;
+    private int dexnum;
+    private String type;
+
+    Pokemon(String name, int level, int hp, int dexnum, String type)
+}
